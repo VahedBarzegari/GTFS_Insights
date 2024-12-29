@@ -27,3 +27,8 @@ https://www.sdmts.com/about/terms-and-conditions
 
 For Winnipeg:
 https://api.winnipegtransit.com/home/terms
+
+
+
+For downlaod from Busmaps.com:
+https://busmaps.com/en/privacy-and-cookies/privacy-policy
