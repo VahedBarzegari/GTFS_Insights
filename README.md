@@ -63,6 +63,3 @@ This approach empowers users to explore GTFS beyond ready-made solutions, enabli
 
 We are actively working to extend this project to include additional case studies and transit systems, making it a valuable resource for transit planning and analysis worldwide.
 
----
-
-Feel free to adapt and improve this README.md content based on the specific focus and goals of your project!
