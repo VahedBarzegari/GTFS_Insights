@@ -62,4 +62,3 @@ This approach empowers users to explore GTFS beyond ready-made solutions, enabli
 ### Future Work
 
 We are actively working to extend this project to include additional case studies and transit systems, making it a valuable resource for transit planning and analysis worldwide.
-
