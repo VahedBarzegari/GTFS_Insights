@@ -62,3 +62,7 @@ This approach empowers users to explore GTFS beyond ready-made solutions, enabli
 ### Future Work
 
 We are actively working to extend this project to include additional case studies and transit systems, making it a valuable resource for transit planning and analysis worldwide.
+
+### Notice
+
+These codes are primarily intended to help familiarize you with GTFS rather than to demonstrate the most optimal or efficient coding practices. They could be written in a cleaner and more structured way, but the focus here is on understanding GTFS concepts rather than code optimization.
