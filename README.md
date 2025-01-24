@@ -65,4 +65,5 @@ We are actively working to extend this project to include additional case studie
 
 ### Notice
 
-These codes are primarily intended to help familiarize you with GTFS rather than to demonstrate the most optimal or efficient coding practices. They could be written in a cleaner and more structured way, but the focus here is on understanding GTFS concepts rather than code optimization.
+1. These codes are primarily intended to help familiarize you with GTFS rather than to demonstrate the most optimal or efficient coding practices. They could be written in a cleaner and more structured way, but the focus here is on understanding GTFS concepts rather than code optimization.
+2. The Interactive Dasoboard Is Going
